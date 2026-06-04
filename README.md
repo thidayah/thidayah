@@ -41,16 +41,8 @@ Marketplace and auction platform available on both web and mobile applications.
 🔗 Mobile App: [Play Store](https://play.google.com/store/apps/details?id=com.paseerorn&pcampaignid=web_share) / [App Store](https://apps.apple.com/us/app/paseero/id6667113032)
 
 <p align="center">
-  <img src="./assets/paseero-web.png" width="65%" alt="Paseero Web"/>
-</p>
-
-<p align="center">
-  <img src="./assets/paseero-mobile.png" width="25%" alt="Paseero Mobile"/>
-</p>
-
-<p align="center">
-  <img src="./assets/paseero-web.png" width="60%" alt="Paseero Web"/>
-  <img src="./assets/paseero-mobile.png" width="18%" alt="Paseero Mobile"/>
+  <img src="./assets/paseero-web.png" width="45%" alt="Paseero Web"/>
+  <img src="./assets/paseero-mobile.png" width="45%" alt="Paseero Mobile"/>
 </p>
 
 ## 💼 Other Notable Projects
