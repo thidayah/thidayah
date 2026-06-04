@@ -87,37 +87,37 @@ Social media story experience integrated with e-commerce products.
   <tr>
     <td align="center">
       <a href="https://reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" alt="React.js"/>
         <br/>React.js
       </a>
     </td>
     <td align="center">
       <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" alt="Next.js"/>
         <br/>Next.js
       </a>
     </td>
     <td align="center">
       <a href="https://vuejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24" alt="Vue"/>
         <br/>Vue
       </a>
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript"/>
         <br/>JavaScript
       </a>
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"/>
         <br/>TypeScript
       </a>
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" alt="Tailwind CSS"/>
         <br/>TailwindCSS
       </a>
     </td>
@@ -129,13 +129,13 @@ Social media story experience integrated with e-commerce products.
   <tr>    
     <td align="center">
       <a href="https://reactnative.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" alt="React Native"/>
         <br/>React Native
       </a>
     </td>
     <td align="center">
       <a href="https://redux.js.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="24" alt="Redux"/>
         <br/>Redux
       </a>
     </td>
@@ -147,19 +147,19 @@ Social media story experience integrated with e-commerce products.
   <tr>  
     <td align="center">
       <a href="https://nodejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"/>
         <br/>Node.js
       </a>
     </td>
     <td align="center">
       <a href="https://laravel.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" alt="Laravel"/>
+        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="24" alt="Laravel"/>
         <br/>Laravel
       </a>
     </td>
     <td align="center">
       <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="Laravel"/>
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="24" alt="Laravel"/>
         <br/>PostgreSQL
       </a>
     </td>
@@ -171,19 +171,19 @@ Social media story experience integrated with e-commerce products.
   <tr>  
     <td align="center">
       <a href="https://git-scm.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git"/>
         <br/>Git
       </a>
     </td>
     <td align="center">
       <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="24" alt="Postman"/>
         <br/>Postman
       </a>
     </td>    
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24" alt="Firebase"/>
         <br/>Firebase
       </a>
     </td>
